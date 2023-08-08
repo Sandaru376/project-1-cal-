@@ -12,6 +12,7 @@ int main() {
     cout<<"Enter second number="<<endl;
     cin>>num2;
 
+cout<<"Enter seconhghgd number="<<endl;
     switch(op){
     case '+':
         result=num1+num2;
