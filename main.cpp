@@ -40,6 +40,8 @@ cout<<"Enter seconhghgd number="<<endl;
 
 
     cout<<"result is="<<result;
+    cout<<"test dev branch is="<<result;
+    cout<<"test dev branch is="<<result;
 
     return 0;
 }
