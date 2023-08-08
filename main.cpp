@@ -40,6 +40,7 @@ int main() {
 
     cout<<"result is="<<result;
     cout<<"test dev branch is="<<result;
+    cout<<"test dev branch is="<<result;
 
     return 0;
 }
