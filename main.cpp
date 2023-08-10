@@ -12,7 +12,6 @@ int main() {
     cout<<"Enter second number="<<endl;
     cin>>num2;
 
-cout<<"Enter seconhghgd number="<<endl;
     switch(op){
     case '+':
         result=num1+num2;
@@ -40,8 +39,6 @@ cout<<"Enter seconhghgd number="<<endl;
 
 
     cout<<"result is="<<result;
-    cout<<"test dev branch is="<<result;
-    cout<<"test dev branch is="<<result;
-
+   
     return 0;
 }
